@@ -1,3 +1,4 @@
-# Charging_Station
+# Survival Classification
 
-Repo dedicated to visualizing different charging stations around the country
+Creating Random Forest Classifier on Titanic passenger data that will predict if a passenger will survive or not
+
